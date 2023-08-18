@@ -1,0 +1,9 @@
+{
+	"name": "az-adf-cicd",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3a5120b9-dd40-490a-91db-e688c1c328f4",
+		"tenantId": "c12aba17-76aa-43ae-a98e-54302f617a40"
+	}
+}
